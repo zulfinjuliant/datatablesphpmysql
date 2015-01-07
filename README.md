@@ -12,7 +12,7 @@
 - buat database di localhost/phpmyadmin
 - import database datphp.sql di folder database
 - jalankan di localhost/nama_projek_kamu
-_ done happy
+- done, happy coding
 
 ### Tutorial : [Datatables](https://datatables.net/)
 
