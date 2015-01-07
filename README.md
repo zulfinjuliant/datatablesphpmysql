@@ -14,7 +14,8 @@
 - jalankan di localhost/nama_projek_kamu
 - done, happy coding
 
-### Tutorial : [Datatables](https://datatables.net/)
+### Tutorial : 
+- klik tutorial disini [Datatables Documentation](https://datatables.net/)
 
 # Lisensi : 
-Opensource
+- Opensource
