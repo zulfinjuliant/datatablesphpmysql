@@ -5,6 +5,8 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>PHP + MySQL + DataTables</title>
 	<!-- //CSS -->
 	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
@@ -25,6 +27,7 @@
 					<h3 class="panel-title">PHP + MySQL + DataTables</h3>
 				</div>
 				<div class="panel-body">
+					<!-- //di tag table, kan ada id=contoh_gan, itu id di panggil dari direktori js/datatables.js -->
 					<table id="contoh_gan" class="table table-bordered table-hover">
 						<thead align="center">
 							<tr>

@@ -8,13 +8,13 @@
 - Datatables 1.10.4
 
 ### Cara install :
+- download dari repositori github saya [download](https://github.com/zulfinjuliant/datatablesphpmysql/archive/master.zip)
 - buat database di localhost/phpmyadmin
 - import database datphp.sql di folder database
 - jalankan di localhost/nama_projek_kamu
 _ done happy
 
-### Tutorial :
-[Datatables](https://datatables.net/)
+### Tutorial : [Datatables](https://datatables.net/)
 
-# Lisensi :
+# Lisensi : 
 Opensource
