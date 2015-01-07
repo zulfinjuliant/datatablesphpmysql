@@ -4,7 +4,7 @@
 
 ### Requirement :
 - minimal PHP 5.3.x
-- MySQL 4.x.x
+- MySQL 5.x.x
 - Datatables 1.10.4
 
 ### Cara install :
